@@ -5,3 +5,7 @@ baidu
 twitter
 quora
 zhihu
+pinterest
+instagram
+reddit
+linkedin
