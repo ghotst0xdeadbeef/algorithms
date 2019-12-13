@@ -9,3 +9,4 @@ pinterest
 instagram
 reddit
 linkedin
+vk
