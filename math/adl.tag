@@ -1,1 +1,1 @@
-["business.facebook.com":"bfb"]
+{ "business.facebook.com":"bfb" }
